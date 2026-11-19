@@ -45,6 +45,8 @@ test('Jardel', async () => {
 ### 🚀 Projetos
 | Projeto | O que é |
 |---|---|
+| **[qa-playwright-e2e](https://github.com/jardel-mateus/qa-playwright-e2e)** | Testes E2E com Playwright + TypeScript: login, carrinho e checkout, page objects, desktop e mobile. Roda no GitHub Actions e publica o [relatório](https://jardel-mateus.github.io/qa-playwright-e2e/) |
+| **[qa-api-serverest](https://github.com/jardel-mateus/qa-api-serverest)** | Testes de API com Postman + Newman na ServeRest: usuários, login com token e CRUD de produtos ([relatório](https://jardel-mateus.github.io/qa-api-serverest/)) |
 | **Nexo Ops** | Central de atendimento e campanhas no WhatsApp: vários números numa tela só, indicadores e disparos agendados (com João Matheus Borba) |
 | **[QA Voyage 3D](https://jardel-mateus.github.io)** | Meu portfólio é um jogo 3D ⛵ (Three.js/WebGL): navegue de barco entre ilhas pra conhecer minha história e cace os 8 bugs escondidos no mar 🐞. Tem modo recrutador e CV em PDF |
 
